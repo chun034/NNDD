@@ -1,7 +1,7 @@
 # NNDD+DMC
 
 
-**[2019/04] 最新版AIRランタイムに更新すると動画が再生出来ない件について](https://github.com/SSW-SCIENTIFIC/NNDD/issues/14)**
+**[(2019/04) 最新版AIRランタイムに更新すると動画が再生出来ない件について](https://github.com/SSW-SCIENTIFIC/NNDD/issues/14)**
 
 
 本ソフトウェアは[MineAP][]さんが作成された[NNDD][] ver2.4.3からフォークしたソフトウェアです。
